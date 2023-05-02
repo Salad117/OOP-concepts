@@ -27,6 +27,7 @@ namespace DesignPatterns.Factory
             Console.WriteLine("Area: " + rc.CalcArea());
 
             Console.Read();
+
         }
     }
 }

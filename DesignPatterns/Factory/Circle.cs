@@ -19,5 +19,10 @@ namespace DesignPatterns.Factory
         {
             return Math.PI * (radius);
        }
+
+        internal string calcArea()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
